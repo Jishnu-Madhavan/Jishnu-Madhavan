@@ -77,7 +77,7 @@ You can view my coding contributions and profiles on my [LinkedIn(https://www.li
     <img width="30%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu-Madhavan&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most Used Languages">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img width="30%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jishnu-Madhavan&theme=radical" alt="jishnu-madhavan"><
+    <img width="30%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jishnu-Madhavan&theme=radical" alt="jishnu-madhavan">
     <img width="30%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jishnu-Madhavan&theme=radical"><br>
     <img width="30%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jishnu-Madhavan&theme=radical&utcOffset=8">
   </a>
