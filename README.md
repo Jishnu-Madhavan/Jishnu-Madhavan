@@ -39,7 +39,6 @@ I'm always open to connecting with other developers and exploring exciting oppor
 - Explored Salesforce during college years, achieving a score of 35,000+ on the Trailhead Salesforce platform 💯
 - **Patent holder** with a passion for technology and open-source projects 📃
 
-<img src="https://github.com/Jishnu-Madhavan"/>
 
 ## Community Involvement 👥
 
