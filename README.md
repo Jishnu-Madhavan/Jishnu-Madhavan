@@ -1,6 +1,6 @@
 
-<p align='center'>
-    <img alt='GIF' src='https://github.com/gauravpatil97886/gauravpatil97886/blob/main/profile-3d-contrib/code.gif?raw=true' width='600' height='400' />
+<p align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="400">
 </p>
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=👋+Hii+I'+am+Jishnu+Madhavan;Developer;Backend+Developer;UI/UX+Designer'/>
