@@ -34,21 +34,19 @@ I'm always open to connecting with other developers and exploring exciting oppor
 
 ##  🏆
 
-- Successfully solved over 400+ coding problems on leetcode, gfg, and coding ninjas 🧠
-- Developed a web application using AWS and GCP, showcasing strong cloud computing skills ☁️
-- Explored Salesforce during college years, achieving a score of 35,000+ on the Trailhead Salesforce platform 💯
-- **Patent holder** with a passion for technology and open-source projects 📃
+- Participated in hackthon program contected by the The Web People🧠
+- Developed a web OTT platform using HTML,CSS,JavaScript,PHP and MYSQL☁️
+- Devoloped a fully working face recognition attendance system software using python and firebase 💯
 
 
 ## Community Involvement 👥
 
-- Actively involved in various tech communities, including **AWS Community Pune and Mumbai** 🤝
-- Participated in **Cloud Native Day 2023**
+- Actively involved in various tech communities, including **IT Club** 🤝
 - Enjoys meeting new people at tech events and meetups 🗣️
 
 ## Connect with Me 🌐
 
-You can view my coding contributions and profiles on my [Linktree](https://linktr.ee/gauravpatil97886). Let's connect and explore more about my work and projects!
+You can view my coding contributions and profiles on my [Linktree](https://www.linkedin.com/in/jishnu-madhavan-b19b822a3/). Let's connect and explore more about my work and projects!
 <br>
 <p align='center'>
     <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
