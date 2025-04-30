@@ -3,11 +3,10 @@
     <img alt='GIF' src='https://github.com/gauravpatil97886/gauravpatil97886/blob/main/profile-3d-contrib/code.gif?raw=true' width='600' height='400' />
 </p>
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=👋+Hii+I'+am+Gaurav+Patil;Full+Stack+Developer;Backend+Developer;.NET+Developer'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=👋+Hii+I'+am+Jishnu+Madhavan;Developer;Backend+Developer;UI/UX+Designer'/>
     
 </div>
 
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
 **Web Developer | Building Dynamic and User-Friendly Experiences** 🚀
 
@@ -32,9 +31,6 @@ Hi there! I'm an enthusiastic Web Developer and UI/UX with a strong desire to pu
 **Let's Connect!**
 
 I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [jishnumadhavan111@gmail.com](mailto:jishnumadhavan111@gmail.com), and let's chat! 😊
-
-<img src="https://github.com/Jishnu-Madhavan"/>
-
 
 ##  🏆
 
