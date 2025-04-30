@@ -31,9 +31,9 @@ Hi there! I'm an enthusiastic Web Developer and UI/UX with a strong desire to pu
 
 **Let's Connect!**
 
-I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [gauravpatil97886@gmail.com](mailto:gauravpatil97886@gmail.com), and let's chat! 😊
+I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [jishnumadhavan111@gmail.com](mailto:jishnumadhavan111@gmail.com), and let's chat! 😊
 
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+<img src="https://github.com/Jishnu-Madhavan"/>
 
 
 ##  🏆
