@@ -46,14 +46,14 @@ I'm always open to connecting with other developers and exploring exciting oppor
 
 ## Connect with Me 🌐
 
-You can view my coding contributions and profiles on my [LinktedIn(https://www.linkedin.com/in/jishnu-madhavan-b19b822a3/). Let's connect and explore more about my work and projects!
+You can view my coding contributions and profiles on my [LinkedIn(https://www.linkedin.com/in/jishnu-madhavan-b19b822a3/). Let's connect and explore more about my work and projects!
 <br>
 <p align='center'>
-   <img width="20%" src="https://komarev.com/ghpvc/?username=gauravpatil97886&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil97886" />
-    <a href='gauravpatil97886@gmail.com' target='_blank'>
+  <a href="https://linkedin.com/in/jishnu-madhavan-b19b822a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <img width="20%" src="https://komarev.com/ghpvc/?username=Jishnu-Madhavan&label=Profile%20views&color=0e75b6&style=flat" alt="jishnu-madhavan" />
+    <a href='jishnumadhavan111@gmail.com' target='_blank'>
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
     </a>
-    <a href="https://twitter.com/Gaurav97886" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav97886?logo=twitter&style=for-the-badge" alt="Gaurav97886" /></a>
 </p>
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
