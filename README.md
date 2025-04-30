@@ -11,17 +11,16 @@
 
 **Web Developer | Building Dynamic and User-Friendly Experiences** 🚀
 
-Hi there! I'm an enthusiastic Full-Stack Web Developer with a strong desire to push the boundaries of innovation. I excel in crafting user-centric web applications and I'm eager to contribute my skills to a fast-paced tech environment where I can collaborate on cutting-edge solutions.
+Hi there! I'm an enthusiastic Web Developer and UI/UX with a strong desire to push the boundaries of innovation. I excel in crafting user-centric web applications and I'm eager to contribute my skills to a fast-paced tech environment where I can collaborate on cutting-edge solutions.
 
 **My Toolkit:**
 
-- **Languages:** Proficient in **C++**, **C**, **JavaScript**, and **TypeScript**.
-- **Web Development:** Expertise in **React.js**, **Next.js**, **Redux**, **HTML**, **CSS**, **Bootstrap**, **Node.js**, **TSX**, and proficient in **API integration**.
-- **Databases:** Skilled in **MongoDB** and **MySQL**, with ongoing exploration of **PostgreSQL** and **GraphQL**.
-- **Development Tools:** Familiar with **Git**, **Gradle**, **Heroku**, **Postman**, **Canva**, **MongoDB ATLAS**, **SwaggerHub**, **Figma**, and **Thunderclient**.
-- **Cloud:** Knowledgeable in **AWS** with solid practice in **GCP** during my college tenure.
+- **Languages:** Proficient in **Python**, **Java**.
+- **Web Development:** Expertise in **HTML**, **CSS**, **javaScript**, **PHP**.
+- **Databases:** Skilled in **MySQL**, with ongoing exploration of **PostgreSQL** and **GraphQL**.
+- **Development Tools:** Familiar with **Canva**, **Figma**, **gitHub**.
 - **Operating Systems:** Expertise in **Windows**, with good **Linux** skills.
-- **Current Focus:** Deep-diving into **System Design (LLD & HLD)**.
+- **Current Focus:** Deep-diving into **UI/UX Design and Web-development**.
 
 
 **Looking for:**
@@ -44,7 +43,7 @@ I'm always open to connecting with other developers and exploring exciting oppor
 - Explored Salesforce during college years, achieving a score of 35,000+ on the Trailhead Salesforce platform 💯
 - **Patent holder** with a passion for technology and open-source projects 📃
 
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+<img src="https://github.com/Jishnu-Madhavan"/>
 
 ## Community Involvement 👥
 
